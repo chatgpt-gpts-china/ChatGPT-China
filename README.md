@@ -1,6 +1,6 @@
 # ChatGPT 中文版：国内免费指南（支持 GPT-4、GPT-4o、o1、o3、o4-mini，无需翻墙）【7月最新更新】
 
-> **更新日期：2025/07/04**        
+> **更新日期：2025/07/05**        
 
 [**ChatGPT 中文版**](https://chat.lanjingai.org) 是 OpenAI 开发的 ChatGPT 模型的中文版本，专为中文用户提供更流畅、更精准的 AI 对话体验。   
 **全面体验 [ChatGPT 中文版](https://chat.lanjingai.org)，无需翻墙，支持 GPT-4、GPT-4o、o1、o3 和 DeepSeek R1 及更多中文功能应用！**   
